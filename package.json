@@ -7,7 +7,8 @@
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0",
-		"@freecodecamp/example": "1.1.0"
+		"@freecodecamp/example":"MAJOR.MINOR.PATCH"
+		
 	},
 	"main": "server.js",
 	"scripts": {
