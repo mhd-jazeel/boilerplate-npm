@@ -6,10 +6,8 @@
 	"version": "1.2.0",
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example":"MAJOR.MINOR.PATCH"
-		
-	},
+		"dependency1": "^major.minor.patch"
+			},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
